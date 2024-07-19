@@ -1,4 +1,4 @@
-# Go Arango
+# Go AQL
 
 This package offers a simple syntax to construct [AQL queries](https://docs.arangodb.com/3.11/aql/) with bind parameters, which can be used with the [official ArangoDB driver](https://pkg.go.dev/github.com/arangodb/go-driver).
 
@@ -88,4 +88,4 @@ func main() {
 
 ## License
 
-See [LICENSE.md](../LICENSE.md)
+See [LICENSE.md](./LICENSE.md)
